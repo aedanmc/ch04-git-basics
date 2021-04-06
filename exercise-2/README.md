@@ -1,5 +1,16 @@
 # Exercise 2
 
+![Octopus from Pia on Pexels](C:\Users\rober\Documents\info201\ch04-git-basics\exercise-2\pexels-pia-octopus.jpg)
+
+This image was downloaded from Pexels and provided by user Pia. The image 
+depicts an octopus with mottled yellow and blue skin in a 
+relaxed position facing the camera with its arms splayed out 
+underneath it. The octopus is surrounded by underwater plants, like seaweed. 
+Also, the background is tinted blue with a highlight 
+on the octopus in the foreground.
+
+
+
 Learn the basics of git workflow, including adding new files.
 
 1. **Fork** the repo onto your own github account  
