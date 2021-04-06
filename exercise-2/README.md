@@ -1,6 +1,6 @@
 # Exercise 2
 
-![Octopus from Pia on Pexels](C:\Users\rober\Documents\info201\ch04-git-basics\exercise-2\pexels-pia-octopus.jpg)
+![Octopus from Pia on Pexels](exercise-2\pexels-pia-octopus.jpg)
 
 This image was downloaded from Pexels and provided by user Pia. The image 
 depicts an octopus with mottled yellow and blue skin in a 
